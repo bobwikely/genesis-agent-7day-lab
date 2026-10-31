@@ -1,0 +1,4 @@
+[
+  {"action": "tool", "tool": "calculator", "arguments": {"expression": "2+3*4"}, "thought": "先算"},
+  {"action": "final", "answer": "14", "thought": "得到结果"}
+]

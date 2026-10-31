@@ -1,0 +1,3 @@
+total_lines=3
+longest_line=48
+verdict=pass
